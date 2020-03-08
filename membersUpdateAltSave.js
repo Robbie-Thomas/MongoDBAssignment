@@ -3,7 +3,7 @@ steve = {
     members_password: "password123",
     profile: {
         "profile.members_profile_username": "steve123",
-        "profile.members_profile_about": "I'm steve I don't like college",
+        "profile.members_profile_about": "Updated Message",
         "profile.members_profile_email": "steve123@college.com",
         "profile.members_profile_dateofbirth": "2016-10-11T00:00:00Z",
         "profile.members_profile_sex": "M"
